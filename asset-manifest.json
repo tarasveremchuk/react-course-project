@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-course-project/static/css/main.39cb79cc.css",
-    "main.js": "/react-course-project/static/js/main.117bcda8.js",
+    "main.css": "/react-course-project/static/css/main.51eaca2c.css",
+    "main.js": "/react-course-project/static/js/main.3ddd3ef7.js",
     "static/media/boxicons.svg": "/react-course-project/static/media/boxicons.9e2b21b135bc7d4c803f.svg",
     "static/media/boxicons.eot": "/react-course-project/static/media/boxicons.65a8ce52fc5427e8f94d.eot",
     "static/media/boxicons.woff": "/react-course-project/static/media/boxicons.d12afc36557395143e4b.woff",
@@ -11,11 +11,11 @@
     "static/media/Group 327.png": "/react-course-project/static/media/Group 327.862c465bb8b7d568e4bb.png",
     "static/media/logo.png": "/react-course-project/static/media/logo.bd7281bea5f71bec7123.png",
     "index.html": "/react-course-project/index.html",
-    "main.39cb79cc.css.map": "/react-course-project/static/css/main.39cb79cc.css.map",
-    "main.117bcda8.js.map": "/react-course-project/static/js/main.117bcda8.js.map"
+    "main.51eaca2c.css.map": "/react-course-project/static/css/main.51eaca2c.css.map",
+    "main.3ddd3ef7.js.map": "/react-course-project/static/js/main.3ddd3ef7.js.map"
   },
   "entrypoints": [
-    "static/css/main.39cb79cc.css",
-    "static/js/main.117bcda8.js"
+    "static/css/main.51eaca2c.css",
+    "static/js/main.3ddd3ef7.js"
   ]
 }
